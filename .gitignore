@@ -1,0 +1,5 @@
+# Ignore the Samples folder
+Samples/
+
+# Ignore the TinySOL.tar.gz file
+TinySOL.tar.gz
