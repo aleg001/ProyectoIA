@@ -1,0 +1,4 @@
+Path,Fold,Family,Instrument (abbr.),Instrument (in full),Technique (abbr.),Technique (in full),Pitch,Pitch ID,Dynamics,Dynamics ID,Instance ID,String ID (if applicable),Needed digital retuning
+Winds/Oboe/ordinario/Ob-ord-G6-ff-N-T16u.wav,0,Winds,Ob,Oboe,ord,ordinario,G6,91,ff,4,0,,TRUE
+Winds/Oboe/ordinario/Ob-ord-G#6-ff-N-N.wav,0,Winds,Ob,Oboe,ord,ordinario,G#6,92,ff,4,0,,FALSE
+Winds/Oboe/ordinario/Ob-ord-A6-ff-N-T18u.wav,1,Winds,Ob,Oboe,ord,ordinario,A6,93,ff,4,0,,TRUE
