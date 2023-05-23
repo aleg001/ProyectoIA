@@ -9,3 +9,5 @@ torchvision
 pytorch-lightning
 torchmetrics
 resampy
+tensorflow
+ipykernel
