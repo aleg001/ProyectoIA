@@ -6,6 +6,10 @@ Realizado por:
 - María Isabel Solano
 - Roberto Vallecillos Chinchilla
 
+
+## Video de funcionamiento
+https://youtu.be/cEFLMQ5yj3A
+
 ## Inicialización
 
 Las instrucciones mostradas en este README serán de gran ayuda para poder hacer uso del programa de manera correcta.
